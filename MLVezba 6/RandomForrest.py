@@ -1,0 +1,1 @@
+#PROTIP: randomForrest scikit ima ugradjeni skor za meru vaznosti featurea
